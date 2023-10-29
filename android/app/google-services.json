@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815138408182",
+    "project_id": "dine-on-way",
+    "storage_bucket": "dine-on-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815138408182:android:df34d7caf5d1e4e3898ed7",
+        "android_client_info": {
+          "package_name": "com.example.dine_on_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815138408182-tlbctg66nvof1vrl7gsqkgfaf6jtk94d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPcB6wR8cf2KYtT8SxE80vzWTXBIsk4fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815138408182-tlbctg66nvof1vrl7gsqkgfaf6jtk94d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
