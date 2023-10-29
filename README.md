@@ -1,4 +1,4 @@
-Certainly, here is a comprehensive description for the README file of your "Dine on Way" app on GitHub:
+
 
 ---
 
@@ -30,12 +30,12 @@ Dine on Way is a revolutionary application designed for travelers who frequently
 
 ## Installation
 
-To install the "Dine on Way" app, simply follow the instructions provided in the [Installation Guide](link-to-installation-guide).
+To install the "Dine on Way" app, simply follow below instructions 
+(For Development Purpose Only)
+1) Install the code and Import necessary packages
+2) configure Backend (I used firebase)
+3) Create Google Maps Api key and store it in env
 
-## Feedback and Support
 
-For any inquiries, feedback, or support, please feel free to contact us at [support@dineonway.com](mailto:support@dineonway.com). We are dedicated to providing the best possible experience for our users and continuously improving our services.
 
 ---
-
-Feel free to customize this description to best fit your application and its features.
