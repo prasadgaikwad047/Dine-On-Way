@@ -36,6 +36,68 @@ To install the "Dine on Way" app, simply follow below instructions
 2) configure Backend (I used firebase)
 3) Create Google Maps Api key and store it in env
 
+<table>
+  <tr>
+    <td align="center">
+      <h2> Home Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/Home%20Screen.jpg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>menu Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/Menu%20Screen.jpg" alt="Second Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2> Order Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/order%20Screen.jpg" alt="First Image" width="300" height="600">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Maps Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/Maps%20view%20of%20hotels.jpg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Customer Support</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/customer%20support%20messaging.jpg" alt="Second Image" width="300" height="600">
+    </td>
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Admin Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/Hotel%20Admin%20Screen.jpg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Add Items</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/alter%20menu.jpg" alt="Second Image" width="300" height="600">
+    </td>
+      <td align="center">
+      <h2>Admin Dashboard</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/Admin%20dashboard.jpg" alt="Second Image" width="300" height="600">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Login</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/login.jpg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>sign Up</h2>
+      <img src="https://github.com/prasadgaikwad047/Dine-On-Way/blob/main/dine%20on%20way%20images/sign%20up.jpg" alt="Second Image" width="300" height="600">
+    </td>
+    
+  </tr>
+</table>
+
 
 
 ---
